@@ -1,7 +1,3 @@
-
-int
-main(int argc, char** argv) {
-
-  // code here!
+code?
+fuck!
   
-}
