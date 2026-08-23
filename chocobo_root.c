@@ -1,6 +1,5 @@
 /*
-jap tensaino primary exchanger hacker elite genious spread thunder hacker. chocobo_root.c (tensainospreads)
-linux AF_PACKET race condition exploit (toctou? ha. why? not race condition both context?!)
+linux AF_PACKET race condition exploit
 exploit for Ubuntu 16.04 x86_64
 
 vroom vroom
@@ -75,8 +74,6 @@ Shoutouts to:
 jsc for inspiration (https://www.youtube.com/watch?v=x4UDIfcYMKI)
 mcdelivery for delivering hotcakes and coffee
 
-11/2016
-by tf8(x90c) temporarily borrow the nickname rebel... (origin me!)
 */
 
 #define _GNU_SOURCE
