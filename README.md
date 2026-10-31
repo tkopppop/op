@@ -11,5 +11,5 @@ x90c (elite fame hacker)<br>
 i learned cs before ele...
 
 i made xss, format string bug, esp lifiting, fedora core 2 3 4 exploit, aix bug, 
-stack pivoting attack.
+IE 8?9? ASLR, DEP mitigations bypass.
 ...
