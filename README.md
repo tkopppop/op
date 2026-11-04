@@ -12,3 +12,4 @@ i learned cs before ele...<br>
 i made xss, format string bug, esp lifiting, fedora core 2 3 4 exploit, aix bug, 
 IE 8?9? ASLR, DEP mitigations bypass.
 ...
+I have a license to the information security part in university.
